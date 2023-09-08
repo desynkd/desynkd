@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub playground!
+
+I'm Ravindu, a coding newbie with a passion for building digital worlds by day and conquering virtual ones by night.
 
 <!--
 **desynkd/desynkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
